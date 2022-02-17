@@ -22,7 +22,7 @@ from datetime import timedelta
 letters = string.ascii_letters
 digits = string.digits
 symbols = string.punctuation
-token = "5195180425:AAGS8nq3fj77sVEePIM1HL0Hin5An6dlPAw"
+token = "token"
 messages = {
     "msg_start": "Hi {0} {1}, \nwelcome to Convert numeric bases robot.\n#ho3j",
     "msg_help": "Available Commands :-\n/b - Binary\n/d - Decimal\n/o - Octal\n/h - Hexadecimal\n/b2 value on 2cmp\n",
